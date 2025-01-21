@@ -213,13 +213,6 @@ Ce projet est sous licence MIT. Faites-en bon usage ! 😄
 Discord.js pour leur bibliothèque incroyable.
 Vous pour avoir utilisé ce bot et lu jusqu'ici ! 🎊
 
-bash
-Copy
-Edit
-
-### Instructions pour utiliser les GIFs et emojis
-- Pour modifier les GIFs, remplacez les URL dans le code par les liens vers vos propres fichiers ou ceux hébergés en ligne.  
-- Si vous souhaitez plus d'emojis ou des modifications dans l'organisation, faites-le-moi savoir ! 🎨
 
 
 
