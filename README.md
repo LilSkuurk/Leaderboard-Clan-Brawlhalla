@@ -26,7 +26,7 @@ Configuration rapide et facile, idéale pour Heroku ou d’autres plateformes.
 ## 📦 Installation
 
 ### 1️⃣ Clonez le projet  
-git clone https://github.com/votre-utilisateur/votre-repo.git  
+git clone https://github.com/LilSkuurk/Leaderboard-Clan-Brawlhalla.git  
 cd votre-repo  
 
 ### 2️⃣ Installez les dépendances  
